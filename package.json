@@ -1,0 +1,12 @@
+{
+  "name": "typescript_exercises_assigment",
+  "version": "1.0.0",
+  "description": "TypeScript assignment 45 questions (PIAIC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
